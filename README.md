@@ -9,5 +9,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doanlong266&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doanlong266&show_icons=true&locale=en&theme=tokyonight" alt="Long Doan Van" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doanlong266&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Long Doan Van" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=doanlong266&show_icons=true&locale=en&theme=tokyonight" alt="Long Doan Van" /></p>
